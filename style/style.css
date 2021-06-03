@@ -1,12 +1,12 @@
 body {
   text-align: center;
-  background: tomato;
+  background: #000000;
   font-family: sans-serif;
   font-weight: 100;
 }
 
 .countdown-title {
-  color: rgb(12, 182, 182);
+  color: tomato;
   font-weight: 100;
   font-size: 40px;
   margin: 40px 0px 20px;
@@ -14,7 +14,7 @@ body {
 
 .countdown {
   font-family: sans-serif;
-  color: #fff;
+  color: rgb(0, 0, 0);
   display: inline-block;
   font-weight: 100;
   text-align: center;
@@ -31,7 +31,7 @@ body {
 .countdown-time {
   padding: 15px;
   border-radius: 3px;
-  background: rgb(100, 13, 172);
+  background: tomato;
   display: inline-block;
 }
 
